@@ -1,0 +1,10 @@
+name: environment_config
+channels:
+  conda-forge
+dependencies:
+  python=3.10
+  pandas
+  scikit-learn
+  matplotlib
+  numpy
+  xgboost
